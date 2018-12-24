@@ -1,10 +1,10 @@
 module.exports = {
   pathPrefix: `/rdbmax.io`,
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
-    author: `Kyle Mathews`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    title: `RdbMax.io`,
+    author: `Rdb Max`,
+    description: `A personal blog.`,
+    siteUrl: `https://rdbmax.github.io/rdbmax.io/`,
     social: {
       twitter: `kylemathews`,
     },
