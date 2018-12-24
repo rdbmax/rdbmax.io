@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: `/rdbmax.io`,
   siteMetadata: {
     title: `Gatsby Starter Blog`,
     author: `Kyle Mathews`,
