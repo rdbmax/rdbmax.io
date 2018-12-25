@@ -1,10 +1,9 @@
 module.exports = {
-  pathPrefix: `/rdbmax.io`,
   siteMetadata: {
-    title: `RdbMax.io`,
+    title: `RdbMax.tech`,
     author: `Rdb Max`,
     description: `A personal blog.`,
-    siteUrl: `https://rdbmax.github.io/rdbmax.io/`,
+    siteUrl: `https://rdbmax.tech/`,
     social: {
       linkedin: `maximeboudier`
     },
