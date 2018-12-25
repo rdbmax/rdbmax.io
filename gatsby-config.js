@@ -5,7 +5,8 @@ module.exports = {
     description: `A personal blog.`,
     siteUrl: `https://rdbmax.tech/`,
     social: {
-      linkedin: `maximeboudier`
+      linkedin: `maximeboudier`,
+      github: `rdbmax`
     },
   },
   plugins: [
