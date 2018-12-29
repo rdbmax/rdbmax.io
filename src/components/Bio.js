@@ -40,8 +40,8 @@ const Bio = () => (
             }}
           />
           <p>
-            Written by <strong>{author}</strong> who lives and works near Paris (FR).
-            {` `}
+            Written by <strong>{author}</strong> from Paris, France.
+            <br/>
             <Link
               href={`https://www.linkedin.com/in/${social.linkedin}/`}
               target='_blank'

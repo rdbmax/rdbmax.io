@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `RdbMax.tech`,
-    author: `Rdb Max`,
+    author: `RdbMax`,
     description: `A personal blog.`,
     siteUrl: `https://rdbmax.tech/`,
     social: {
