@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `RdbMax.tech`,
     author: `RdbMax`,
-    description: `A personal blog.`,
+    description: `RdbMax personal blog. Tech related experiences. Mostly React, javascript, team work.`,
     siteUrl: `https://rdbmax.tech/`,
     social: {
       linkedin: `maximeboudier`,
@@ -58,8 +58,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `RdbMax.tech`,
+        short_name: `RdbMax.tech`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
